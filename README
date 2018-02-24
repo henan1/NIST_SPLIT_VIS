@@ -10,7 +10,7 @@ Run it
 
 Data structure:
 app: SplitTool/testapp.cpp
-librarys:
+libraries:
 	Data:
 		svQDOT
 		svQDOTData
